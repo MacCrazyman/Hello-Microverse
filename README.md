@@ -13,6 +13,20 @@ Additional description about the project and its features.
 - HTML & CSS
 - Node
 
+## Getting Started
+
+
+To get a local copy up and running follow these simple example steps.
+
+
+### Setup
+You can go to "Code > Clone" and copy the link
+
+### Install
+Go to the git bash on your local machine and clone it to your local repository using the command $ git clone "repo link"
+
+### Usage
+Open [index file](index.html) to see the webpage
 
 
 ## Authors
